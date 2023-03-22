@@ -1,0 +1,23 @@
+[19-Mar-2023 14:38:52 UTC] PHP Warning:  Undefined variable $image in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95
+[19-Mar-2023 14:38:52 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php:95
+Stack trace:
+#0 /home/ns42lg5hviwt/chigozie/src/Model/Responses.php(95): mime_content_type()
+#1 /home/ns42lg5hviwt/chigozie/src/Model/Responses.php(40): Clet\Model\Responses->validate_contact()
+#2 /home/ns42lg5hviwt/chigozie/contact/index.php(19): Clet\Model\Responses->handle_responses()
+#3 {main}
+  thrown in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95
+[19-Mar-2023 14:40:39 UTC] PHP Warning:  Undefined variable $image in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95
+[19-Mar-2023 14:40:39 UTC] PHP Fatal error:  Uncaught TypeError: mime_content_type(): Argument #1 ($filename) must be of type resource|string, null given in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php:95
+Stack trace:
+#0 /home/ns42lg5hviwt/chigozie/src/Model/Responses.php(95): mime_content_type()
+#1 /home/ns42lg5hviwt/chigozie/src/Model/Responses.php(40): Clet\Model\Responses->validate_contact()
+#2 /home/ns42lg5hviwt/chigozie/contact/index.php(19): Clet\Model\Responses->handle_responses()
+#3 {main}
+  thrown in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95
+[19-Mar-2023 14:49:27 UTC] PHP Warning:  Undefined variable $posts in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95
+[19-Mar-2023 14:49:27 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php:95
+Stack trace:
+#0 /home/ns42lg5hviwt/chigozie/src/Model/Responses.php(40): Clet\Model\Responses->validate_contact()
+#1 /home/ns42lg5hviwt/chigozie/contact/index.php(19): Clet\Model\Responses->handle_responses()
+#2 {main}
+  thrown in /home/ns42lg5hviwt/chigozie/src/Model/Responses.php on line 95

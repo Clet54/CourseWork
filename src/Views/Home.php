@@ -68,13 +68,13 @@
         </button>
       </div>
       <div class='text-center text-success fst-italic mx-auto my-5 w-75'>Visiting Nigeria for the first time has a rich and diverse cuisine with various types of cooked foods that are influenced by its many ethnic groups and regions. Some of the most popular If you’re tired of the same old, let’s take a culinary journey to the west coast of Africa. Nigerian Food is aromatic, colourful, and full of flavour. Besides jollof rice and fufu, there are many delicious staples. From hearty and rich stews and soups to savoury staples, you’ll enjoy every single bite of these traditional meals</div>
-      <h3 class='display-3'>WHAT IS A TYPICAL NAIJA MEAL LIKE?</h3>
+      <h3 class='display-3'>TYPICAL NAIJA MEAL</h3>
       <p class='lead mx-5'><strong class='fw-bolder'>Foods in Nigeria</strong>: Nigerian Recipes – Nigerian Food
       Nigerians love to eat, and they are known for their food. Nigerian food is very diverse, from the different regions in Nigeria to the various tribes that call Nigeria home. With this diversity comes a lot of recipes—and we’re here to help you find them!</p>
       <div class='row g-4 mt-3'>
         <div class='col col-sm-12 col-md-4'>
           <div class='card'>
-            <img src='{$posts::get_assets_url('/images/792.jpeg')}' class='card-img-top' alt='...'>
+            <img src='{$posts::get_assets_url('/images/8992.jpeg')}' class='card-img-top' alt='...'>
             <div class='card-body'>
               <h5 class='card-title text-capitalize'>Egusi soup</h5>
               <p class='card-text'>Egusi soup is a Nigerian delicacy that features ground melon or pumpkin seeds as its main ingredient.</p>
@@ -100,7 +100,7 @@ Oxtail peppersoup is something which I've loved my entire life. They're nice and
         </div>
         <div class='col col-sm-12 col-md-4'>
           <div class='card'>
-            <img src='{$posts::get_assets_url('/images/789.jpeg')}' class='card-img-top' alt='...'>
+            <img src='{$posts::get_assets_url('/images/8992.jpeg')}' class='card-img-top' alt='...'>
             <div class='card-body'>
               <h5 class='card-title text-capitalize'>Jollof Rice</h5>
               <p class='card-text'>Jollof, or jollof rice, is a rice dish from West Africa. The dish is typically made with long-grain rice, tomatoes, onions, spices, vegetables and meat in a single pot, although its ingredients and preparation methods vary across different regions.</p>

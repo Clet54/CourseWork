@@ -75,7 +75,7 @@
           <h3 class='display-6 fw-bold lh-1'>{$posts->get_title()}</h3>$html
         </div>
         <div class='col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg'>
-          <img class='rounded' src='{$posts::get_assets_url('/images/792.jpeg')}' alt='Jellof Rice' title='Nigeria Jellof Rice' width='720'>
+          <img class='rounded' src='{$posts::get_assets_url('/images/792.jpeg')}' alt='Naija Jellof Rice' title='Nigeria Jellof Rice' width='720'>
         </div>
       </div>
     </main>

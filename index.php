@@ -17,3 +17,6 @@
     $core = Core::instance();
     $core->responses->handle_responses();
     echo $core;
+
+
+/** https://github.com/Clet54/CourseWork */
